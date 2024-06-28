@@ -1,8 +1,6 @@
 # Pitch Black Wallpaper Images
 
-## Introduction
-
-Welcome to the Pitch Black Wallpaper Images repository. Here you will find a variety of pitch black wallpapers optimized for different resolutions. Whether you're using a desktop or a mobile device, these wallpapers are designed to help you save battery life on OLED screens and reduce eye strain.
+Welcome to the Pitch Black Wallpaper Images repository. Here you will find a sleek and minimalist pitch black wallpaper, perfectly optimized for various resolutions. Designed to help you save battery life on OLED screens and reduce eye strain, these tiny, highly optimized 1-bit PNG files are ideal for both desktop and mobile devices.
 
 ## Get the Apps
 
@@ -19,18 +17,13 @@ Simplify your wallpaper experience with our apps, which provide an easier altern
 3. **Customization**: The Pro version offers extensive customization options, including shades and AI-generated wallpapers.
 4. **Support Development**: By upgrading to the Pro version, you help support the ongoing development and maintenance of our apps.
 
-## Features
+## Features and Benefits
 
-- **High Quality**: Optimized PNG images with 1-bit per pixel depth.
-- **Multiple Resolutions**: Available in Full HD, QHD, and 4K UHD for desktops and mobile devices.
-- **Battery Saving**: Ideal for OLED screens to conserve battery life.
-- **Minimalist Design**: Sleek and simple pitch black design for a clean look.
-
-## Benefits
-
-- **Battery Saving**: Using black wallpapers on OLED screens can help save battery life since black pixels are turned off on these displays.
-- **Reduced Eye Strain**: Dark wallpapers can be easier on the eyes, especially in low-light environments.
-- **Aesthetic Appeal**: Provides a sleek, minimalist look for your device.
+- **High Quality**: Tiny, highly optimized 1-bit PNG images for minimal storage use.
+- **Multiple Resolutions**: Available in Full HD, QHD, and 4K UHD for both desktop and mobile devices.
+- **Battery Saving**: Helps conserve battery life, especially on OLED screens.
+- **Reduced Eye Strain**: Dark wallpapers are easier on the eyes, particularly in low-light environments.
+- **Minimalist Design**: Provides a sleek and simple look for your device, enhancing its aesthetic appeal.
 
 ## How to Use
 
