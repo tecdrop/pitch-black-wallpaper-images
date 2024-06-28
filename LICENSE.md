@@ -1,6 +1,10 @@
-# Creative Commons Attribution 4.0 International Public License
+# Creative Commons Attribution 4.0 International License
 
 This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by/4.0/legalcode.en).
+
+## Copyright Notice
+
+Copyright (c) 2024 [Tecdrop](https://www.tecdrop.com/)
 
 ## You are free to:
 
