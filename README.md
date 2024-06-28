@@ -1,6 +1,6 @@
 # Pitch Black Wallpaper Images
 
-[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/tecdrop/pitch-black-wallpaper-images/total)
 
 Welcome to the Pitch Black Wallpaper Images repository. Here you will find a sleek and minimalist pitch black wallpaper, perfectly optimized for various resolutions. Designed to help you save battery life on OLED screens and reduce eye strain, these tiny, highly optimized 1-bit PNG files are ideal for both desktop and mobile devices.
